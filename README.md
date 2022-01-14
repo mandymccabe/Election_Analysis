@@ -2,7 +2,7 @@
 ## Overview
 Data from a U.S. congressional election in Colorado was collected and needed analaysis.  The data is generally analyzed in Microsoft Excel but the board is looking into the possibility of automating the process with Python.  If successful, the code may be used in other election audits.   
 
-The data was pulled from the following CSV file: [LINK](Kickstarter_Challenge20%Copy.zip).
+The data was pulled from the following CSV file: [LINK](Challenge/election_results.csv).
 
 ## Election Audit Results
 Using Python the team was able to the extract data and analyze it in a variety of ways including:
@@ -11,7 +11,7 @@ Using Python the team was able to the extract data and analyze it in a variety o
 - the county with the best voter turnout
 - total votes cast  
 The image below shows election result output after the completed script was ran:
-![Election results from Python Script](Images/Outcomes_vs_Launch_Count.png)
+![Election results from Python Script](Challeng/results.png)
 
 
 
