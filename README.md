@@ -10,6 +10,7 @@ Using Python the team was able to the extract data and analyze it in a variety o
 - which candidates received votes and their respective percentages
 - the county with the best voter turnout
 - total votes cast  
+
 The image below shows election result output after the completed script was ran:
 
 
